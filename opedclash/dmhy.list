@@ -5,11 +5,14 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,share.dmhy.org
 DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,docker.io
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,nyaa
 DOMAIN-KEYWORD,dmhy
+DOMAIN-KEYWORD,docker
 
 
 # IP段匹配
