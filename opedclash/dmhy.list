@@ -15,6 +15,9 @@ DOMAIN-KEYWORD,dmhy
 DOMAIN-KEYWORD,docker
 
 
+# 本地IP直连匹配
+- SRC-IP-CIDR,192.168.10.223/32,DIRECT
+
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
