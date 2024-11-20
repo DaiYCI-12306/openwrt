@@ -8,8 +8,7 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,mikanani.me
-
-
+DOMAIN-SUFFIX,steampowered.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -17,6 +16,7 @@ DOMAIN-KEYWORD,nyaa
 DOMAIN-KEYWORD,dmhy
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,mikanani
+DOMAIN-KEYWORD,steampowered
 
 
 
