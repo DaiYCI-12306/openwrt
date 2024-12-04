@@ -1,3 +1,5 @@
+#匹配进程
+PROCESS-NAME,qbittorrent,DIRECT
 
 # 本地IP直连匹配
 SRC-IP-CIDR,192.168.10.223/32,DIRECT
