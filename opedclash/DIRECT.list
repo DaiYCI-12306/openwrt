@@ -1,6 +1,10 @@
 #匹配进程
 PROCESS-NAME,qbittorrent,DIRECT
 
+#目标ip直连
+IP-CIDR,117.72.76.50/8,DIRECT
+IP-CIDR,10.0.0.117/8,DIRECT
+
 # 本地IP直连匹配
 SRC-IP-CIDR,192.168.10.223/32,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
