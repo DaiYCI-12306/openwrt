@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,fcdn.sk
 
 
 # 域名关键字匹配
@@ -22,6 +23,7 @@ DOMAIN-KEYWORD,mikanani
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,z-library
 DOMAIN-KEYWORD,annas-archive
+
 
 
 # IP段匹配
