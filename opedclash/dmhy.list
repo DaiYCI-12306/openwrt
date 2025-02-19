@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,Trakt.tv
 DOMAIN-SUFFIX,tvmaze.com
 DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,emby.media
 
 
 # 域名关键字匹配
@@ -41,6 +42,7 @@ DOMAIN-KEYWORD,omdbapi
 DOMAIN-KEYWORD,Trakt
 DOMAIN-KEYWORD,tvmaze
 DOMAIN-KEYWORD,tmdb
+DOMAIN-KEYWORD,emby
 
 
 # IP段匹配
