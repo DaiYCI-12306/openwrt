@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,Trakt.tv
 DOMAIN-SUFFIX,tvmaze.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,proxmox.com
 
 
 # 域名关键字匹配
@@ -43,7 +44,7 @@ DOMAIN-KEYWORD,Trakt
 DOMAIN-KEYWORD,tvmaze
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,emby
-
+DOMAIN-KEYWORD,proxmox
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
