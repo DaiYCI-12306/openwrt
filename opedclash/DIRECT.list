@@ -16,7 +16,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,tracker.totheglory.im
-
+DOMAIN-SUFFIX,sf-express.com
+DOMAIN-SUFFIX,cn.bing.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
