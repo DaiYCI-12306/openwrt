@@ -1,6 +1,16 @@
 # 代理补充列表
 
 
+#域名匹配
+DOMAIN,api.themoviedb.org
+DOMAIN,api4.thetvdb.com
+DOMAIN,image.tmdb.org
+DOMAIN,myanimelist.net
+DOMAIN,artworks.thetvdb.com
+DOMAIN,graphql.anilist.co
+
+
+
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
@@ -25,6 +35,7 @@ DOMAIN-SUFFIX,tvmaze.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,proxmox.com
+
 
 
 # 域名关键字匹配
