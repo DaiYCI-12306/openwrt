@@ -1,5 +1,9 @@
 # 代理补充列表
 
+#本地源IP匹配
+SRC-IP-CIDR,192.168.10.10/32,no-resolve
+
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,dmhy.org
