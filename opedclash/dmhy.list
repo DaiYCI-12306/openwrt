@@ -2,12 +2,7 @@
 
 
 #域名匹配
-DOMAIN,api.themoviedb.org
-DOMAIN,api4.thetvdb.com
-DOMAIN,image.tmdb.org
-DOMAIN,myanimelist.net
-DOMAIN,artworks.thetvdb.com
-DOMAIN,graphql.anilist.co
+
 
 
 
@@ -25,8 +20,6 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,apkcombo.app
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,lMDb.com
 DOMAIN-SUFFIX,omdbapi.com
 DOMAIN-SUFFIX,Trakt.tv
@@ -34,7 +27,10 @@ DOMAIN-SUFFIX,tvmaze.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,proxmox.com
-
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,anilist.co
 
 
 # 域名关键字匹配
