@@ -9,13 +9,18 @@ IP-CIDR,10.0.0.117/8,DIRECT
 SRC-IP-CIDR,192.168.10.223/32,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 域名匹配
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.totheglory.im
+
+
+
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,tracker.m-team.cc
-DOMAIN-SUFFIX,tracker.totheglory.im
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,cn.bing.com
 
