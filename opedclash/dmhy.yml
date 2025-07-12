@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,tvmaze.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,rackspace.com
 
 
 # 域名关键字匹配
