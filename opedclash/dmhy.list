@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,myanimelist.net
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,anilist.co
 DOMAIN-SUFFIX,z-library.sk
+DOMAIN-SUFFIX,rackspace.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
