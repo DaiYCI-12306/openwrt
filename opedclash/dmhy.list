@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,qbittorrent.org 
+DOMAIN-SUFFIX,fastlydns.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
