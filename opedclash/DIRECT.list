@@ -11,8 +11,8 @@ SRC-IP-CIDR,192.168.10.223/32,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名匹配
-DOMAIN,tracker.m-team.cc
-DOMAIN,tracker.totheglory.im
+#DOMAIN,tracker.m-team.cc
+#DOMAIN,tracker.totheglory.im
 
 
 
