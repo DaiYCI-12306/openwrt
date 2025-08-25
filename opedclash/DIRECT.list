@@ -1,5 +1,3 @@
-#匹配端口
-DST-PORT,63219,DIRECT
 
 #匹配进程
 PROCESS-NAME,qbittorrent,DIRECT
