@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,steamcontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
