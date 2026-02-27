@@ -14,7 +14,6 @@ SRC-IP-CIDR,192.168.10.254/32,DIRECT
 # 域名匹配
 DOMAIN,icve.ltd
 DOMAIN,hushida.com
-DOMAIN,imnks.com
 #DOMAIN,tracker.m-team.cc
 #DOMAIN,tracker.totheglory.im
 
