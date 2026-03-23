@@ -1,7 +1,7 @@
 # 内容：OpenAi Bard anthropic
 
 # 域名匹配
-#DOMAIN,kp.m-team.cc
+DOMAIN,kp.m-team.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team.cc
