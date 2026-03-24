@@ -2,6 +2,7 @@
 
 # 域名匹配
 DOMAIN,kp.m-team.cc
+DOMAIN,alphacephei.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team.cc
