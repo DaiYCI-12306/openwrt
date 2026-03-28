@@ -35,6 +35,7 @@ DOMAIN-KEYWORD,proxmox
 DOMAIN-KEYWORD,anime
 DOMAIN-KEYWORD,z-library
 # 域名后缀匹配
+DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,huecker.io
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
