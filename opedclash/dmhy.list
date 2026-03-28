@@ -38,6 +38,13 @@ DOMAIN-KEYWORD,z-library
 
 
 # 域名后缀匹配
+
+DOMAIN-SUFFIX,plexapp.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,halomt.com
