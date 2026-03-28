@@ -35,7 +35,10 @@ DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,proxmox
 DOMAIN-KEYWORD,anime
 DOMAIN-KEYWORD,z-library
+
+
 # 域名后缀匹配
+DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,manfuz.co
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,huecker.io
