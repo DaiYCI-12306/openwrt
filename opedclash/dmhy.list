@@ -42,7 +42,7 @@ DOMAIN-KEYWORD,z-library
 
 
 # 域名后缀匹配
-
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,plexapp.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,fanart.tv
