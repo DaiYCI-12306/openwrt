@@ -1,33 +1,14 @@
-# 内容：OpenAi Bard anthropic
-# 域名关键字匹配
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,nyaa
-DOMAIN-KEYWORD,dmhy
-# 域名后缀匹配
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
-DOMAIN-SUFFIX,dmhy.org
-DOMAIN-SUFFIX,share.dmhy.org
-DOMAIN-SUFFIX,nyaa.si
-
+# ====== TELEGRAM 专属规则（置顶！勿删）======
+DOMAIN-SUFFIX,t.me,PROXY
+DOMAIN-SUFFIX,tdesktop.com,PROXY
+DOMAIN-SUFFIX,telegram.org,PROXY
+DOMAIN-SUFFIX,telegramcdn.com,PROXY
+DOMAIN-KEYWORD,telegra,PROXY
+IP-CIDR,149.154.160.0/20,PROXY
+IP-CIDR,91.108.4.0/22,PROXY
+IP-CIDR,91.108.8.0/22,PROXY
+IP-CIDR,91.108.56.0/22,PROXY
+IP-CIDR,149.154.172.0/22,PROXY
+IP-CIDR,95.161.64.0/20,PROXY
+# ====== 以下规则由其他.list自动注入 ======
+#（此处无需填写，导入时会与 GEOSITE/cn 规则自动合并）
