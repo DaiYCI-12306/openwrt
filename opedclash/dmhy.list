@@ -1,8 +1,8 @@
 # 内容：OpenAi Bard anthropic
 
 #匹配目标IP
-IP-CIDR,64.233.189.188/24,PROXY
-IP-CIDR,149.154.171.5/24,PROXY
+IP-CIDR,64.233.189.188/32,Proxy
+IP-CIDR,149.154.171.5/32,Proxy
 
 # 域名匹配
 DOMAIN,kp.m-team.cc
