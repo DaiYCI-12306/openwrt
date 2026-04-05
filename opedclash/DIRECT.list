@@ -15,6 +15,7 @@ SRC-IP-CIDR,192.168.10.254/32,DIRECT
 DOMAIN,douban.com
 DOMAIN,icve.ltd
 DOMAIN,hushida.com
+DOMAIN,secure.assrt.net
 
 
 
