@@ -12,6 +12,7 @@ SRC-IP-CIDR,192.168.10.254/32,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名匹配
+DOMAIN,douban.com
 DOMAIN,icve.ltd
 DOMAIN,hushida.com
 
