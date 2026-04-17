@@ -8,6 +8,7 @@ IP-CIDR,149.154.171.5/32,Proxy
 DOMAIN,kp.m-team.cc
 DOMAIN,alphacephei.com
 DOMAIN,bbs.acgrip.com
+DOMAIN,googleadservices.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,telegram
