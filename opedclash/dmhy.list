@@ -48,6 +48,7 @@ DOMAIN-KEYWORD,z-library
 
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,plexapp.com
