@@ -15,7 +15,6 @@ SRC-IP-CIDR,192.168.10.254/32,DIRECT
 DOMAIN,douban.com,DIRECT
 DOMAIN,icve.ltd,DIRECT
 DOMAIN,hushida.com,DIRECT
-DOMAIN,secure.assrt.net,DIRECT
 
 # 私有网络与保留地址直连
 IP-CIDR,0.0.0.0/8,DIRECT
