@@ -11,10 +11,14 @@ SRC-IP-CIDR,192.168.10.223/32,DIRECT
 SRC-IP-CIDR,192.168.10.254/32,DIRECT
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 域名后缀匹配
+DOMAIN-SUFFIX,assrt.net,DIRECT
+
 # 域名匹配
 DOMAIN,douban.com,DIRECT
 DOMAIN,icve.ltd,DIRECT
 DOMAIN,hushida.com,DIRECT
+DOMAIN,file0.assrt.net,DIRECT
 
 # 私有网络与保留地址直连
 IP-CIDR,0.0.0.0/8,DIRECT
